@@ -47,6 +47,8 @@ cleanup()
 	if [[ -n $SPINNER_PID ]]; then
 		kill "$SPINNER_PID"
 	fi
+	
+	rm -f -- /tmp/xkcd-* /tmp/no-page-number.tex 2>/dev/null
 }
 
 animate_spinner()
