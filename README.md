@@ -1,6 +1,6 @@
 # ramp
 
-**Ran**dom **p**rint (`ramp`) is a script to send to a physical printer a random [xkcd](https://xkcd.com/).
+(**Ran**)dom (**p**)rint (`ramp`) is a script to send to a physical printer a random [xkcd](https://xkcd.com/).
 
 ## Dependencies
 
