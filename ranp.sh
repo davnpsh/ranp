@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # 
 # Send to a physical printer a random xkcd.
-# https://github.com/davnpsh/ramp
+# https://github.com/davnpsh/ranp
 # 
 # Author: daru <me@davnpsh.dev>
 # Date: January 10, 2026
