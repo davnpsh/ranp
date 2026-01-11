@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # 
-# Send to a physical printer a random xkcd.
+# Send a random xkcd to a physical printer.
 # https://github.com/davnpsh/ranp
 # 
 # Author: daru <me@davnpsh.dev>
@@ -35,7 +35,7 @@ usage()
 	cat <<-EOF
 	Usage: $(basename "$0") [options]
     
-	Send to a physical printer a random xkcd.
+	Send a random xkcd to a physical printer.
     
 	Options
 	  -h          print this message and exit
