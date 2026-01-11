@@ -1,6 +1,6 @@
 # ranp
 
-(**Ran**)dom (**p**)rint (`ranp`) is a script to send to a physical printer a random [xkcd](https://xkcd.com/).
+(**Ran**)dom (**p**)rint (`ranp`) is a script to send a random [xkcd](https://xkcd.com/) to a physical printer.
 
 ## Dependencies
 
