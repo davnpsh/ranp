@@ -49,7 +49,7 @@ cleanup()
 	fi
 }
 
-log()
+animate_spinner()
 {
 	local chars c
 	
@@ -125,7 +125,7 @@ main()
 	
 	trap cleanup EXIT
 	
-	log &
+	animate_spinner &
 	SPINNER_PID=$!
 	
 	check_deps
